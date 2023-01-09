@@ -46,4 +46,4 @@ while True:
 print(star1)
 print(star2)
 # print(utils.print_grid(cave))
-utils.save_image(cave, "cave.png", {"O": 128, "#": 255})
+utils.save_image(cave, "cave_d14.png", {"O": 128, "#": 255})
